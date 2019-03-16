@@ -1,4 +1,8 @@
-﻿# Repositorio da disciplina DCA0214 - Estrutura de Dados
+﻿# __DCA0214.1 - LABORATORIO DE ESTRUTURAS DE DADOS__ 
+## __Aula 1: Práticas básicas de Programação__
+###        __Prof. Felipe Fernandes__
+
+
 
 1.  Dado um número inteiro positivo n, verificar se este número contém dois dígitos consecutivos iguais.
 
