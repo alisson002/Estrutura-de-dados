@@ -10,7 +10,7 @@
 
 5.  Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles utilizando o algoritmo de Euclides.
 	
-			![](C:\Users\Alisson Moreira\MEUS REPOSITORIOS\Estrutura-de-dados\Lista 1\sdds.jpg)
+			![sdds](C:\Users\Alisson Moreira\MEUS REPOSITORIOS\Estrutura-de-dados\Lista 1\sdds.jpg)
 
 6.  Dados dois números inteiros positivos a e b, representando a fração a/b, escreva um programa que reduz a/b para uma fração irredutível. Exemplo: Se a entrada é 9/12 a saída tem de ser 3/4.
 
