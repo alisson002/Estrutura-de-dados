@@ -10,13 +10,13 @@
 
 5.  Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles utilizando o algoritmo de Euclides.
 	
-			![sdds](https://user-images.githubusercontent.com/42205502/54480218-829e6b00-4804-11e9-8457-45a2ef818f8b.jpg)
+![sdds](https://user-images.githubusercontent.com/42205502/54480218-829e6b00-4804-11e9-8457-45a2ef818f8b.jpg)
 
 6.  Dados dois números inteiros positivos a e b, representando a fração a/b, escreva um programa que reduz a/b para uma fração irredutível. Exemplo: Se a entrada é 9/12 a saída tem de ser 3/4.
 
 7.  Dados a quantidade de dias de um mês e o dia da semana em que o mês começa, escreva um programa que imprima os dias do mês por semana, linha a linha. Considere o dia da semana 1 como domingo, 2 como segunda-feira, e assim por diante, até o dia 7 como sábado. Exemplo: Se a entrada é 31 e 3 então a saída deve ser
 
-			![wed](https://user-images.githubusercontent.com/42205502/54480230-b4173680-4804-11e9-8860-20f16229f549.jpg)
+![wed](https://user-images.githubusercontent.com/42205502/54480230-b4173680-4804-11e9-8860-20f16229f549.jpg)
 
 8.  Dados um número inteiro n e n sequências de números inteiros, cada qual terminada por 0, determinar a soma dos números pares de cada sequência (Dica: utilize um vetor).
 
