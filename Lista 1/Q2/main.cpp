@@ -27,19 +27,14 @@ int main(){
        numero = numero/10;
     }
 
-    for(int i=0;i<x;i++){
+   if(vet[0]==vet[x-1]){
 
-        if(vet[i]==vet[i+1]){
-            a=true;
-            break;
-        }
-        else{
-            a=false;
-        }
+       cout<<"Sim"<<endl;
+   }
+   else{
 
-    }
-
-    cout<<"Sim = 1; Nao = 0: "<<a<<endl;
+       cout<<"Nao"<<endl;
+   }
 
 
 return 0;
