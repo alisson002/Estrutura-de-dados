@@ -1,4 +1,4 @@
-﻿# _DCA0214.1 - LABORATORIO DE ESTRUTURAS DE DADOS__ 
+﻿# _DCA0214.1 - LABORATORIO DE ESTRUTURAS DE DADOS__
 ## __Aula 2: Práticas básicas de programação em C/C++: funções, vetores, matrizes, struct, ponteiros, busca, complexidade, introdução aos algoritmos de ordenação__
 ###        __Prof. Felipe Fernandes__
 
